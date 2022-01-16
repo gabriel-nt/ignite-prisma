@@ -1,7 +1,7 @@
 <h1 align="center">
     🚀 Ignite - Prisma
 </h1>
-<p align="center">Aplicação com Prisma</p>
+<p align="center">Aplicação de entrega com Prisma</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/node-14.15.4-green"/>
