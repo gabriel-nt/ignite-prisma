@@ -5,7 +5,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/node-14.15.4-green"/>
-  <img src="https://img.shields.io/badge/last%20commit-august-blue" />
+  <img src="https://img.shields.io/badge/typescript-4.5.4-blue"/>
+  <img src="https://img.shields.io/badge/last%20commit-january-orange" />
   <img src="https://img.shields.io/badge/license-MIT-success"/>
 </p>
 
@@ -18,12 +19,23 @@
 </p>
 
 <h3 align="center"> 
-🚧  Em Desenvolvimento  🚧
+🚧  Finalizado  🚧
 </h3>
+
+### 📌 Sobre 
+Aplicação para realizar entregas. Nesta aplicação, tem um lado o cliente - que irá se cadastrar e cadastrar itens para serem entregues em determinada localização - e, do outro, o entregador - que poderá pegar ou não determinada entrega para ser realizada.
 
 ### 📎 Features
 
-- [ ] Features
+- [x] Criar cliente
+- [x] Criar entrega
+- [x] Criar entregador
+- [x] Autenticação do cliente
+- [x] Autenticação do entregador
+- [x] Listar entregas por cliente
+- [x] Listar entregas por entregador
+- [x] Atualizar data da entrega
+- [x] Atualizar entregador da entrega
 
 ### ⚙ Pré-requisitos
 
@@ -49,12 +61,26 @@ $ yarn dev ou npm run dev
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
+### 🧾 Insomnia
+Para ter um exemplo das rotas para a nossa API, basta clicar no link abaixo:
+</br>
+<a href="https://insomnia.rest/run/?label=Rentx&uri=https%3A%2F%2Fgithub.com%2Fgabriel-nt%2Frentx-api%2Fblob%2Fmaster%2Fassets%2Fcollection_insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+
 ### :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - NodeJS
-- Express
+- Typescript
+
+### 📕 Bibliotecas
+
+Esse projeto foi desenvolvido com o auxílio das seguintes libs:
+
+- prisma
+- bcrypt
+- jsonwebtoken
+- ts-node-dev
 
 ### :memo: Licença
 
