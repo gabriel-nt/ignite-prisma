@@ -64,7 +64,7 @@ $ yarn dev ou npm run dev
 ### 🧾 Insomnia
 Para ter um exemplo das rotas para a nossa API, basta clicar no link abaixo:
 </br>
-<a href="https://insomnia.rest/run/?label=Rentx&uri=https%3A%2F%2Fgithub.com%2Fgabriel-nt%2Frentx-api%2Fblob%2Fmaster%2Fassets%2Fcollection_insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<a href="https://insomnia.rest/run/?label=Delivery&uri=https%3A%2F%2Fgithub.com%2Fgabriel-nt%2Fignite-prisma%2Fblob%2Fmaster%2Fassets%2Fcollection.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 
 ### :rocket: Tecnologias
 
